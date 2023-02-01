@@ -50,6 +50,6 @@
     ?>
 
     <h1> 4 Screenshot of the development environment </h1>
-    <img src="img\Docker Desktop.jpg" alt="screenshot">
+    <img src="img\Docker.jpg" alt="screenshot">
 
 <?php include "footer.php" ?>
