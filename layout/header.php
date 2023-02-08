@@ -31,10 +31,10 @@
           <a class="nav-link" href="ex1.php">Exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="aboutus.php">About US</a>
+          <a class="nav-link" href="variable.php">Exersice3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="variable.php">Exercise3</a>
+          <a class="nav-link" href="controlflow.php">Exercise4</a>
         </li>
         
       </ul>
