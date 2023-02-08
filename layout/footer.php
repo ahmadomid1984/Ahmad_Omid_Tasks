@@ -7,7 +7,10 @@
   <div class="footer-copyright text-center py-3">© 2020 Copyright <br>
   <?php
 
-    echo "Last modified on: " .date("l, jS M, Y H:i a", filemtime(basename($_SERVER['PHP_SELF'])));;
+  $fname = basename($_SERVER['PHP_SELF']);
+  $last_modified = filemtime($fname);
+
+  echo "Last modified on: " .date('l jS \o\f F Y, h:i:s A', $last_modified);
   ?>
   </div>
   <!-- Copyright -->
