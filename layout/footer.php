@@ -6,9 +6,6 @@
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright <br>
   <?php
-  $file = $_SERVER["SCRIPT_NAME"];
-    $break = Explode('/', $file);
-    $pfile = $break[count($break) - 1]; 
 
     echo "Last modified on: " .date("l, jS M, Y H:i a", filemtime(basename($_SERVER['PHP_SELF'])));;
   ?>
