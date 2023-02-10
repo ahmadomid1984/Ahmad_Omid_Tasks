@@ -48,7 +48,10 @@
     <p><input type="text" name="percent"></p>
     <input type="submit" name="submit">
 
+    
     <h3> <br> 4. Write a program to get inputs (age and name). </h3>
+
+
     <h3> <br> 5. Use Switch statement with strops function. </h3>
 
 

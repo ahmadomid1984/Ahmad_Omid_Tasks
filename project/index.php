@@ -23,7 +23,7 @@
             <li class="Coffee"><a href="#">Coffee</a></li>
             <li class="Find"><a href="#">Find US</a></li>
             <li class="About"><a href="#">About US</a></li>
-            <li class=""><a href="ex1.php">Exercise (1)</a></li>
+            <li class=""><a href= "../layout/ex1.php">Exercise (1)</a></li>
           </ul>          
     </header>
 
