@@ -9,6 +9,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">    
 <style>
   a, .nav-link,.navbar-brand {
+    color: black;
+}
+  .nav-link, .navbar-brand {
     color: white;
 }
     </style>
@@ -38,6 +41,12 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="array.php">Exercise5</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../crud1/create.php">Create Info</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../crud1/read.php">Read Info</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
